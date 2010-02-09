@@ -1,0 +1,12 @@
+
+h1. Mon premier paragraphe
+
+Alors je ne vois pas comment faire :
+
+* Avoir l'affichage des puces
+* Faire une animation qui soit cool
+* Avec un code propre
+
+h1. Roadmap
+
+Pour ce faire, nous avons besoin ...
